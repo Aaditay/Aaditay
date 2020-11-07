@@ -10,7 +10,7 @@
 
 Hi, I'm  Aaditay Garg, a Self Taught Dev.
 
-- 🔭 I’m currently working on my project [dotPhy](https://github.com/dotphy/dotphy.github.io)
+- 🔭 I’m currently working on my project [dotPhy](https://github.com/dotphy/lab-dotphy)
 - 🌱 I’m currently learning  JS and having fun with Computers  .
 
  
